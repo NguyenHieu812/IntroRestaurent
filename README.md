@@ -1,4 +1,4 @@
-# restaurent-ui
+# IntroRestaurent
 
 ## Project setup
 ```
